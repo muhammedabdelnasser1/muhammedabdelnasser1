@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Muhammed Abdel-Nasser
-- 👀 I’m interested in DevSecOps
-- 🌱 I’m currently learning Cyber Security
-- 💞️ I’m looking to collaborate on DevSecOps Projects
+-  Hi, I’m Muhammed Abdel-Nasser
+-  I’m interested in DevSecOps
+-  I’m currently learning Cyber Security
+-  I’m looking to collaborate on DevSecOps Projects
 
 
 <!---
